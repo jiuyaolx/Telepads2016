@@ -1,0 +1,17 @@
+cannot.find.remove=传送已被移除.
+button.forget=忽略
+button.teleport=任意传送
+enter.to.confirm=按回车键确认
+name.your.telepad=命名你的传送台 
+dragon.obstructs=末影龙的力量干扰了你的传送 !
+feet.color=蓝绿色
+arrow.color=浅莲红
+no.power=这个传送台已关闭
+no.exp=你的经验太低, 无法支付传送惩罚
+
+item.telepads.toggler.name=栓紧装置
+item.telepads.transmitter.name=传送器
+tile.telepads.telepad.name=传台
+
+item.telepads.ender_bead.name=末影珠
+item.telepads.ender_bead_necklace.name=末影项链
